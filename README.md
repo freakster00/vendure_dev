@@ -1,13 +1,7 @@
-# feedback_vendure
+# Vendure Development Server
 
-This project was generated with [`@vendure/create`](https://github.com/vendure-ecommerce/vendure/tree/master/packages/create).
 
-Useful links:
 
-- [Vendure docs](https://www.vendure.io/docs)
-- [Vendure Slack community](https://join.slack.com/t/vendure-ecommerce/shared_invite/zt-1exzio25w-vjL5TYkyJZjK52d6jkOsIA)
-- [Vendure on GitHub](https://github.com/vendure-ecommerce/vendure)
-- [Vendure plugin template](https://github.com/vendure-ecommerce/plugin-template)
 
 ## Directory structure
 
